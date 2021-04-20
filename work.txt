@@ -1,0 +1,2 @@
+Esse arqivo foi criado para ilustrar o funcionamento do merge 
+no git.
