@@ -2,3 +2,5 @@ Esse arquivo foi criado para que ficasse evidente o
 envio dos arquivos para o repositório remoto.
 
 Esse diferenciando nada tem a ver com o cálculo de derivadas
+
+Agora desejo ver a diferença simulando equipes remotas
